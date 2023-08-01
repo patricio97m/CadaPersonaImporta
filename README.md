@@ -116,7 +116,7 @@ antes de aplicar un tratamiento.
 **Indica** (MatriculaNac, CodigoTrat) [FK: Profesional, Tratamiento] <br>
 **Utiliza** (CodigoComp, CodigoTrat) [FK: CompuestoFarmaco, Tratamiento] <br>
 
-### Lista de foreign keys
+### Lista de claves foráneas
 Antecedente.CUIL -> Persona.CUIL <br>
 Diagnostico.CodigoTrat -> Tratamiento.Codigo <br>
 GravedadEfecto.CodigoEfecto -> EfectoAdverso.Codigo <br>
