@@ -1,4 +1,4 @@
-# Trabajo práctico final de BD1 "Cada persona importa"
+# Base de datos basada en una organización de salud ficticia "Cada persona importa"
 
 ## Enunciado y Requisitos
 “Cada Persona Importa” es una organización sin fines de lucro que busca registrar los
